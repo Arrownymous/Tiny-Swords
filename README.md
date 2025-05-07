@@ -5,6 +5,8 @@ In deze game verken je een fantasierijke wereld en neem je het op tegen vijanden
 
 Ontwikkeld als leerproject met focus op gameplay-mechanica, movement, en combat.
 
+![image](https://github.com/user-attachments/assets/e84daa54-943a-4936-9859-677f7128750b)
+
 ---
 
 ## 🎮 Features
