@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Tiny Swords.sln"
+    "dotnet.defaultSolution": "Tiny-Swords.sln"
 }
